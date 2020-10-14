@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tasks app</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_emailPlaceholder">E-mail</string>
+    <string name="txt_passwordPlaceholder">Password</string>
+    <string name="btn_addTaskText">Add task</string>
+    <string name="addTaskHint">Write your task here</string>
+    <string name="addTask">Add task</string>
+
+    <string name="hint_word">task...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Task not saved because it is empty.</string>
+
+    <string name="button_update">Update</string>
+    <string name="button_delete">Delete</string>
+    <string name="mark_completed">Mark completed</string>
+    <string name="mark_restarted">Restart task</string>
+    <string name="menu_completedTasks">Completed tasks</string>
+    <string name="menu_onGoing">Ongoing tasks</string>
+    <string name="menu_allTasks">All tasks</string>
+</resources>
